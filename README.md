@@ -23,13 +23,6 @@ This project is a front-end **Amazon Clone** built with **HTML**, **CSS**, and *
 
 ---
 
-## 📸 Preview
-
-<!-- Add a screenshot of your project below -->
-![Amazon Clone Screenshot](screenshot.png)
-
----
-
 ## 📂 Installation & Usage
 
 1. **Clone the repository**:
